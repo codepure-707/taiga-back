@@ -175,7 +175,7 @@ raven==6.10.0
     # via -r requirements.in
 redis==4.5.3
     # via -r requirements.in
-requests==2.27.1
+requests==2.32.4
     # via
     #   -r requirements.in
     #   asana
