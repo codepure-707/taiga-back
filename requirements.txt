@@ -155,7 +155,7 @@ pygments==2.14.0
     # via -r requirements.in
 pyjwt==2.6.0
     # via oauthlib
-pymdown-extensions==9.9.2
+pymdown-extensions==10.16.1
     # via -r requirements.in
 python-dateutil==2.7.5
     # via
