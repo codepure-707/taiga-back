@@ -60,7 +60,7 @@ defusedxml==0.7.1
     # via cairosvg
 diff-match-patch==20121119
     # via -r requirements.in
-django==3.2.19
+django==4.2.28
     # via
     #   -r requirements.in
     #   django-jinja
